@@ -1,4 +1,4 @@
-<h1 align="center">Hi Houssem.</h1>
+<h1 align="center">Houssem.</h1>
 <h3 align="center">Dedicated to a greater cause.</h3>
 
 <p align="left">
